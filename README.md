@@ -12,9 +12,9 @@ Trước khi bắt đầu, bạn cần có cài đặt [Node.js](https://nodejs.
 
 ### Cài Đặt
 
-1. Sao chép dự án về máy tính của bạn:
-   git clone https://github.com/username/ten-du-an.git
-   cd ten-du-an
+Sao chép dự án về máy tính của bạn:
+   git clone https://github.com/vohavinhtan01012001/frontend-cart.git
+   cd backend
 ### Cài Đặt các phụ thuộc:
 
 chạy lệnh npm install trên terminal
